@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exponenta</string>
+    <string name="predict">Классифицировать</string>
+    <string name="download_image">Загрузка изображения</string>
+    <string name="capture_image">Камера</string>
+    <string name="not_found_image">Изображение не найдено</string>
+    <string name="alert_permission">У вас нет прав!</string>
+    <string name="positive_button">Открыть настройки</string>
+    <string name="negative_button">Отменить</string>
+    <string name="denied_permission_storage">Вы закрыли доступ к внутреннему хранилищу</string>
+    <string name="activity_selector">Выберите действие</string>
+    <string name="select_1">Открыть Галерею</string>
+    <string name="select_2">Сделать Снимок</string>
+    <string name="exceptions">Сначала загрузите изображение</string>
+</resources>

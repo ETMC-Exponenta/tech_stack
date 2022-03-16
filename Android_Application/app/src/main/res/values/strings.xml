@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exponenta</string>
+    <string name="predict">Classify</string>
+    <string name="download_image">Downloaded image</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="not_found_image">Not found image</string>
+    <string name="alert_permission">Permission is turned off!</string>
+    <string name="positive_button">Open settings</string>
+    <string name="negative_button">Cancel</string>
+    <string name="denied_permission_storage">You have denied the storage permission</string>
+    <string name="activity_selector">Select Action</string>
+    <string name="select_1">Select photo from Gallery</string>
+    <string name="select_2">Take a photo by Camera</string>
+    <string name="exceptions">Have no image</string>
+</resources>
