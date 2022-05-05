@@ -9,3 +9,6 @@ Python GUI is windows application. Here you can upload .csv files sequences and 
 - 'GetData.py' - module for upload .csv data into your network. The module is used by 'net.py'.
 - 'Norm.py' - module for providing data normalization. There are z-norm and max_min methods for doing that. The module is used by 'net.py'.
 - 'GetResult_BiGRU.py' - module for showing prediction results on the plot. The module is used by 'net.py'.
+
+## Screenshot
+![alt text]()
