@@ -11,4 +11,4 @@ Python GUI is windows application. Here you can upload .csv files sequences and 
 - 'GetResult_BiGRU.py' - module for showing prediction results on the plot. The module is used by 'net.py'.
 
 ## Screenshot
-![alt text]()
+![alt text](https://github.com/ETMC-Exponenta/tech_stack/blob/master/Python%20GUI/picture/example.PNG)
